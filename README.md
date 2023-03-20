@@ -1,2 +1,2 @@
-# exercicios-estruturas-dados-c-1
+# Estruturas de dados I
 Exercícios que realizei durante a matéria de Estruturas de Dados I. Todos eles feitos em C.
